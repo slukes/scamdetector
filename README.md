@@ -6,6 +6,8 @@ To build and test the project run
 
 `mvn clean install`
 
+Note that this project uses java 11
+
 ## Run
 
 To run the project unzip the built archive ScamDetector-1.0-SNAPSHOT-dist.zip
